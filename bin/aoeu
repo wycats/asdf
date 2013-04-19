@@ -1,0 +1,4 @@
+#!/usr/bin/env ruby
+
+require "asdf"
+Asdf::Server.new.start
